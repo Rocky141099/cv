@@ -1,0 +1,41 @@
+body{
+  background-color: #beebe9;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+h1{
+  color: #1f4068;
+}
+h2{
+  color: #1f4068;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+img{
+  height: 175px;
+  width: 175px;
+}
+
+table{
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.intro{
+  text-align: left;
+}
+form{
+  text-align: center;
+}
